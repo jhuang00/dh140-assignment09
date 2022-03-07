@@ -21,4 +21,4 @@ Step 4: Make a very short Zoom recording in which you preview your blog site and
 
 ### Interact with Binder
 
-Find interactive version here: 
+Find interactive version here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhuang00/dh140-assignment09/HEAD)
